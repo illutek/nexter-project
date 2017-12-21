@@ -1,7 +1,7 @@
 {
-  "name": "trillo",
+  "name": "nexter",
   "version": "1.0.0",
-  "description": "advance css sass cource",
+  "description": "advance css sass cource css-grid",
   "main": "index.js",
   "scripts": {},
   "repository": {
@@ -11,9 +11,9 @@
   "author": "stefan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/illutek/trillo/issues"
+    "url": "https://github.com/illutek/nexter/issues"
   },
-  "homepage": "https://github.com/illutek/trillo#readme",
+  "homepage": "https://github.com/illutek/nextero#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
